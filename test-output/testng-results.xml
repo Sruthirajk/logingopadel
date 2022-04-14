@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-12T16:29:06 IST" name="Default suite" finished-at="2022-04-12T16:30:22 IST" duration-ms="75683">
+    <groups>
+    </groups>
+    <test started-at="2022-04-12T16:29:06 IST" name="Default test" finished-at="2022-04-12T16:30:22 IST" duration-ms="75683">
+      <class name="GoPadelLoginTest.GoPadelLoginTest">
+        <test-method is-config="true" signature="suiteSetup()[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:28:22 IST" name="suiteSetup" finished-at="2022-04-12T16:29:06 IST" duration-ms="44240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup -->
+        <test-method signature="loginTest()[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:29:06 IST" name="loginTest" finished-at="2022-04-12T16:29:07 IST" duration-ms="1335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:29:07 IST" name="loginfunction" data-provider="loginCredentials" finished-at="2022-04-12T16:29:21 IST" duration-ms="13387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gkg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wrong username or password.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:29:21 IST" name="loginfunction" data-provider="loginCredentials" finished-at="2022-04-12T16:29:34 IST" duration-ms="13141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wrong username or password..]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:29:34 IST" name="loginfunction" data-provider="loginCredentials" finished-at="2022-04-12T16:29:47 IST" duration-ms="13074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kjfkdf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23135]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Wrong username or password.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:29:47 IST" name="loginfunction" data-provider="loginCredentials" finished-at="2022-04-12T16:30:00 IST" duration-ms="12602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Please fill out the field]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="loginfunction(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:30:00 IST" name="loginfunction" data-provider="loginCredentials" finished-at="2022-04-12T16:30:10 IST" duration-ms="10862" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method signature="main()[pri:1, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:30:10 IST" name="main" finished-at="2022-04-12T16:30:16 IST" duration-ms="5867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="forgetPassword()[pri:2, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:30:16 IST" name="forgetPassword" finished-at="2022-04-12T16:30:22 IST" duration-ms="5295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgetPassword -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:GoPadelLoginTest.GoPadelLoginTest@549949be]" started-at="2022-04-12T16:30:22 IST" name="suiteTearDown" finished-at="2022-04-12T16:30:22 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- GoPadelLoginTest.GoPadelLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

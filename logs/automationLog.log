@@ -1,0 +1,2 @@
+17:24:46.842 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:24:46.953 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345

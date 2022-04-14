@@ -1,0 +1,357 @@
+17:26:29.659 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:26:29.723 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:42:40.940 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:42:40.993 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:23:01.896 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:23:01.931 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+10:29:47.960 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:29:48.156 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+10:48:04.686 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:48:04.819 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+11:08:36.950 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:08:37.491 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:40:16.141 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:40:16.408 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:42:08.907 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:42:09.006 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:42:09.010 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:38:18.453 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:38:18.531 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:38:18.606 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:52:07.695 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:52:07.778 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:52:08.099 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+13:56:13.787 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:56:13.879 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:56:14.207 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:10:47.071 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:10:47.259 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:14:15.802 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:14:15.876 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:17:54.576 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:17:54.655 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:23:04.439 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:23:04.539 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:25:47.362 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:25:47.452 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:29:47.274 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:29:47.370 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:45:47.272 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:45:47.423 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:50:01.117 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:50:01.189 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:51:13.998 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:51:14.111 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:53:15.453 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:53:15.540 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:55:36.909 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:55:36.991 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:33:54.426 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:33:54.756 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:44:58.511 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:44:58.593 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:51:16.507 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:51:16.580 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+10:06:47.339 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:06:47.432 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+10:45:22.721 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:45:23.098 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:09:33.728 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:09:33.928 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:11:34.058 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:11:34.133 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:12:27.490 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:12:27.591 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:13:17.050 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:13:17.145 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:16:09.650 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:16:10.178 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:18:30.181 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:18:30.256 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:19:55.897 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:19:55.983 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:23:59.395 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:23:59.472 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:27:06.397 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:27:06.491 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:27:57.757 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:27:57.833 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:28:40.201 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:28:40.280 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:29:43.585 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:29:43.798 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:30:51.841 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:30:51.920 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:32:26.759 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:32:26.851 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:33:52.098 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:33:52.189 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:35:07.065 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:35:07.161 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+14:29:48.379 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:29:48.861 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+14:36:53.433 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:36:53.522 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:11:32.303 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:11:32.458 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:52:29.028 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:52:29.188 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:10:44.761 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:10:44.845 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:19:39.394 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:19:40.051 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:37:41.895 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:37:42.496 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+10:47:27.917 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:47:28.248 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:13:44.405 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:13:44.589 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:03:07.561 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:03:07.651 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:53:11.529 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:53:11.668 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:30:23.674 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:30:23.759 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:34:27.156 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:34:27.239 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:38:58.209 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:38:58.281 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:41:02.942 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:41:03.112 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:45:33.187 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:45:33.266 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:52:35.666 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:52:35.740 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+13:56:36.843 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:56:36.917 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+14:05:53.383 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:05:53.489 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+14:11:21.004 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:11:21.075 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+14:15:58.122 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:15:58.208 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:28:24.845 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:28:25.403 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:28:26.197 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:31:15.143 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:31:15.370 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:31:16.066 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:38:25.778 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:38:26.190 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:38:34.375 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+17:39:01.901 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:39:02.279 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:39:07.698 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:44:50.517 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:44:50.941 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:44:53.432 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - admin  and password - Admin@12345
+09:47:06.733 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:47:06.808 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:11:19.614 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:11:19.731 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:12:25.610 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:12:25.687 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+15:36:21.295 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:36:21.476 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+15:41:46.409 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:41:46.479 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:18:24.702 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:18:24.818 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:24:47.395 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:24:47.466 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:29:15.094 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:29:15.184 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:35:27.650 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:35:27.762 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:36:26.699 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:36:26.774 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:42:23.789 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:42:23.862 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+16:57:19.241 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:57:19.327 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:06:16.924 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:06:17.065 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:18:53.339 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:18:53.414 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:23:51.468 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:23:51.549 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:29:56.090 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:29:56.179 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:36:41.692 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:36:41.806 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:47:16.038 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:47:16.293 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:52:34.251 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:52:34.371 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+18:20:42.673 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+18:20:42.813 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+18:25:13.047 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedurl-https://gopadel.cadvil.com/ and actualUrl - https://gopadel.cadvil.com/DashBoard
+09:31:25.286 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:31:25.369 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:34:49.125 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:34:49.197 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:44:15.613 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:44:15.683 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+09:53:51.746 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:53:51.903 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+10:04:29.043 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:04:29.275 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+10:13:04.940 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:13:05.044 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:05:19.916 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:05:20.005 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:06:44.788 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:06:44.861 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:13:06.324 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:13:06.428 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:14:52.470 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:14:52.771 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:27:52.798 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:27:52.914 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:35:02.382 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:35:02.456 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:37:04.198 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:37:04.267 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:50:18.576 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:50:18.687 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:57:44.800 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:57:44.911 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:11:23.262 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:11:23.642 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:21:51.908 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:21:52.052 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:28:47.890 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:28:48.167 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:34:05.717 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:34:05.939 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:36:32.135 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:36:32.252 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:48:39.752 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:48:39.824 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+12:55:01.032 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedurl-https://gopadel.cadvil.com/ and actualUrl - https://gopadel.cadvil.com/DashBoard
+15:38:06.218 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:38:06.311 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:10:58.638 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:10:58.783 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+17:38:12.265 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:38:12.340 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Sign In and actualSignLabel - Sign In
+11:17:46.867 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:17:47.677 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Login In and actualSignLabel - Log in
+11:30:56.677 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:30:56.770 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Login In and actualSignLabel - Log in
+11:32:41.626 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:32:41.713 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:35:04.600 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:35:04.715 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+12:06:16.542 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:06:16.636 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+12:06:17.324 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - [[ChromeDriver: chrome on WINDOWS (9030ab28981aecefb75f4e1bb0495900)] -> name: username] and password - [[ChromeDriver: chrome on WINDOWS (9030ab28981aecefb75f4e1bb0495900)] -> name: password]
+12:32:08.103 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:32:08.450 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+12:32:09.270 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - [[ChromeDriver: chrome on WINDOWS (9046bc5391820838ffa472203cb773b1)] -> name: username] and password - [[ChromeDriver: chrome on WINDOWS (9046bc5391820838ffa472203cb773b1)] -> name: password]
+13:07:18.732 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:07:18.810 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+13:07:19.570 [main] INFO  GoPadelPages.GoPadelLoginPage - Logging with username - [[ChromeDriver: chrome on WINDOWS (c4f22f9d5e050228daa7a668fc65930d)] -> name: username] and password - [[ChromeDriver: chrome on WINDOWS (c4f22f9d5e050228daa7a668fc65930d)] -> name: password]
+13:10:00.506 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:10:00.578 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:05:54.264 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:05:54.367 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:40:19.234 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:40:19.346 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:42:37.912 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:42:37.990 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:17:21.957 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:17:22.048 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:25:32.510 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:25:32.620 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:28:31.624 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:28:31.699 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:31:02.235 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:31:02.310 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:31:44.923 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:31:44.998 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:32:30.939 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:32:31.043 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:51:57.049 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:51:57.124 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+10:03:21.920 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:03:22.118 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:39:33.483 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:39:33.639 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+12:58:55.713 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:58:55.805 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+13:02:30.884 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+13:02:33.817 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:34:39.898 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:34:40.051 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:44:12.069 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:44:12.140 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+14:48:41.461 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+14:48:41.544 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:20:03.088 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:20:03.500 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+16:40:29.314 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:40:29.662 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+17:00:35.533 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:00:35.595 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+17:04:41.276 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:04:41.432 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+17:09:05.665 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:09:05.838 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+17:25:18.882 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:25:18.953 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+17:31:51.524 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+17:31:51.598 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+09:59:57.311 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+09:59:58.715 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+10:28:16.182 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+10:28:16.267 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:09:14.187 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:09:14.283 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:18:18.573 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:18:18.638 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:21:05.766 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:21:05.951 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:41:41.446 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:41:41.510 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:44:57.546 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:44:57.644 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:53:14.575 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:53:14.668 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+11:56:22.206 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+11:56:22.266 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+12:00:52.666 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+12:00:52.733 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:23:26.615 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:23:26.891 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:26:50.348 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:26:50.426 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:29:48.763 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:29:48.854 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:31:44.031 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:31:44.114 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:37:58.778 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:37:58.855 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:39:32.416 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:39:32.508 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:41:53.633 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:41:53.712 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:43:26.087 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:43:26.167 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:45:29.769 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:54:47.955 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:54:48.031 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:55:55.386 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:55:55.488 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:56:45.962 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:56:46.040 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+15:57:42.194 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+15:57:42.303 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+16:05:36.887 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:05:36.983 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+16:18:37.735 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:18:37.843 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+16:22:06.553 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:22:06.656 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
+16:29:06.517 [main] INFO  GoPadelLoginTest.GoPadelLoginTest - Verifying successful login.
+16:29:06.605 [main] INFO  GoPadelLoginTest.GoPadelLoginTest -  expectedSignLabel-Log in and actualSignLabel - Log in
